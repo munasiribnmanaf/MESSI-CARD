@@ -1,0 +1,52 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color:#43A1D5;
+    height: 700px;
+
+}
+.kk{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-style: solid;
+    height: 480px;
+    width: 300px;
+    background-color: rgb(117, 87, 207);
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+.oo{
+    height: 20px;
+    width: 70px;
+    background-color: #f25f15;
+    padding-left: 2px;
+    margin-right: 20px;
+    
+}
+.tt{
+    border-style: solid;
+    height: 480px;
+    width: 300px;
+    background-color: rgb(26, 165, 170);
+    border-radius: 10px;
+    margin right:8px ;
+
+    
+    
+}
+.ww{
+    border-style: solid;
+    height: 480px;
+    width: 300px;
+    background-color: rgb(204, 178, 27);
+    border-radius: 10px;
+    margin-left: 10px;
+    
+
+}
+
